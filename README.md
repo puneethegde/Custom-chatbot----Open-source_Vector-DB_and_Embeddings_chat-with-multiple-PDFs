@@ -18,7 +18,7 @@ Vector DB Architecture:
 
 The detailed overview about the Vector DB and Embedding retrieval is given in the PDF.
 
-You can give your PDFs and use different Vector DB like Chroma DB, Qdrant and SKlearn DB notebooks in the above and compare the results!
+You can give your PDFs to the path and use different Vector DB like Chroma DB, Qdrant and SKlearn DB notebooks to QUERY and get the semantic similarity results or answers and compare the results!
  
  
 
