@@ -1,9 +1,7 @@
-# Custom-chatbot----Open-source-Vector-DB-Embeddings
+# Custom-chatbot----Open-source-Vector-DB-Embeddings #$0 Embeddings #No OpenAI API key required #chat with multiple PDFs 
+#NLP #langchain #Vectordatabase #embeddings #retrieval
 
 Here is the overall architecure of Vector DB and how it works!
-
-
-
 
 
 
